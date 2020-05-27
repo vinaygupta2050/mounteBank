@@ -1,0 +1,9 @@
+{"message":"[mb:2525] Running with --allowInjection set. See http://localhost:2525/docs/security for security info","level":"warn","timestamp":"2020-05-24T08:28:21.105Z"}
+{"message":"[mb:2525] mountebank v2.2.1 now taking orders - point your browser to http://localhost:2525/ for help","level":"info","timestamp":"2020-05-24T08:28:21.109Z"}
+{"message":"[mb:2525] PUT /imposters","level":"info","timestamp":"2020-05-24T08:28:21.124Z"}
+{"message":"[http:8090] Open for business...","level":"info","timestamp":"2020-05-24T08:28:21.172Z"}
+{"message":"[http:8090] ::1:50741 => GET /test?greet=morning","level":"info","timestamp":"2020-05-24T08:28:29.663Z"}
+{"message":"[http:8090] ::1:50742 => GET /favicon.ico","level":"info","timestamp":"2020-05-24T08:28:29.705Z"}
+{"message":"[http:8090] ::1:50744 => GET /test?greet=evening","level":"info","timestamp":"2020-05-24T08:28:36.592Z"}
+{"message":"[http:8090] ::1:50745 => GET /favicon.ico","level":"info","timestamp":"2020-05-24T08:28:36.636Z"}
+{"message":"[mb:2525] Adios - see you soon?","level":"info","timestamp":"2020-05-24T08:34:56.167Z"}
